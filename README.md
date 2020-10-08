@@ -1,4 +1,5 @@
 # Samatha Marhaendra Putra's Official GitHub
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-marhaendra" alt="sam-marhaendra" /> </p>
 
 ### Hi! 👋:grin:
 
