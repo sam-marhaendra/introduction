@@ -7,8 +7,6 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sam-marhaendra&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-marhaendra)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Projects that I've done
 
 1 **Numerical Analysis of the growth rate of COVID-19 Infection**
