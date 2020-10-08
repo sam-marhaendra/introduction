@@ -9,9 +9,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-marhaendra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Product that I've made
+## Projects that I've done
 
-1 **eYes Desktop App**
+1 **Numerical Analysis of the growth rate of COVID-19 Infection**
+
+https://github.com/sam-marhaendra/UTS_MetNum
+
+2 **eYes Desktop App**
 
 https://github.com/sam-marhaendra/eYesAppProject
 
