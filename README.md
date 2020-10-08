@@ -7,6 +7,8 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sam-marhaendra&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-marhaendra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Product that I've made
 
 1 **eYes Desktop App**
