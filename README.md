@@ -4,7 +4,7 @@
 
 <img src="https://github.com/sam-marhaendra/introduction/blob/main/Photo.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sam-marhaendra&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sam-marhaendra&show_icons=true&theme=tokyonight)
 
 ## Product that I've made
 
