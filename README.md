@@ -22,4 +22,5 @@ https://github.com/sam-marhaendra/eYesAppProject
 ## Let's get to know more about me :smiley::point_down:
 
 - LinkedIn: https://linkedin.com/in/sam-marhaendra/
+- Kaggle: https://www.kaggle.com/sammarhaendrap
 - Instagram: https://www.instagram.com/sam.marhaendra/
