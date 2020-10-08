@@ -15,4 +15,4 @@ https://github.com/sam-marhaendra/eYesAppProject
 ## Let's get to know more about me :smiley::point_down:
 
 - LinkedIn: https://linkedin.com/in/sam-marhaendra/
-- Instagram: https://instagram.com/sam.marhaendrap/
+- Instagram: https://www.instagram.com/sam.marhaendra/
