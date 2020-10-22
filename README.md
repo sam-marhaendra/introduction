@@ -5,21 +5,9 @@
 
 <img src="https://github.com/sam-marhaendra/introduction/blob/main/Samatha Marhaendra Putra.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sam-marhaendra&show_icons=true&theme=tokyonight)
+<p><img src="https://github-readme-stats.vercel.app/api?username=sam-marhaendra&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
-## Projects that I've done
-
-1 **Numerical Analysis of the growth rate of COVID-19 Infection**
-
-https://github.com/sam-marhaendra/NumericalMethods_MidTermProj
-
-2 **eYes Desktop App**
-
-https://github.com/sam-marhaendra/eYesAppProject
-
-3 **Predicting The Skip of Credit Card Payment**
-
-https://www.kaggle.com/sammarhaendrap/data-analytics-competition-its-solution
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-marhaendra&amp;layout=compact" alt="Top Languages"></p>
 
 ## Let's get to know more about me :smiley::point_down:
 
