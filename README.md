@@ -17,6 +17,10 @@ https://github.com/sam-marhaendra/NumericalMethods_MidTermProj
 
 https://github.com/sam-marhaendra/eYesAppProject
 
+3 **Predicting The Skip of Credit Card Payment**
+
+https://www.kaggle.com/sammarhaendrap/data-analytics-competition-its-solution
+
 ## Let's get to know more about me :smiley::point_down:
 
 - LinkedIn: https://linkedin.com/in/sam-marhaendra/
