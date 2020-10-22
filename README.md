@@ -3,7 +3,7 @@
 
 ### Hi! 👋:grin:
 
-<img src="https://github.com/sam-marhaendra/introduction/blob/main/Photo.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
+<img src="https://github.com/sam-marhaendra/introduction/blob/main/Samatha Marhaendra Putra.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sam-marhaendra&show_icons=true&theme=tokyonight)
 
@@ -11,7 +11,7 @@
 
 1 **Numerical Analysis of the growth rate of COVID-19 Infection**
 
-https://github.com/sam-marhaendra/UTS_MetNum
+https://github.com/sam-marhaendra/NumericalMethods_MidTermProj
 
 2 **eYes Desktop App**
 
