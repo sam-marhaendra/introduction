@@ -3,7 +3,7 @@
 
 ### Hi! 👋:grin:
 
-<img src="https://github.com/sam-marhaendra/introduction/blob/main/Samatha Marhaendra Putra.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
+<img src="https://github.com/sam-marhaendra/introduction/blob/main/update header.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sam-marhaendra&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
