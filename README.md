@@ -1,4 +1,4 @@
-# Samatha Marhaendra Putra's Official GitHub
+# Official GitHub of Samatha Marhaendra Putra
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-marhaendra" alt="sam-marhaendra" /> </p>
 
 [<img align="left" alt="sam-marhaendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
