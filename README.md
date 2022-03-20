@@ -21,8 +21,6 @@
 
 ### Hi! 👋 I'm Hendra :grin:
 
-<img src="https://github.com/sam-marhaendra/introduction/blob/main/cover.png" alt="Samatha Marhaendra Putra" style="border-radius: 10px"/>
-
 <p align="justify">
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam-marhaendra&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats">
