@@ -20,10 +20,3 @@
 <br />
 
 ### Hi! 👋 I'm Hendra :grin:
-
-<p align="justify">
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam-marhaendra&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-marhaendra&theme=cobalt&show_icons=true&layout=compact" alt="Top Languages">
-  </a>
-</p>
